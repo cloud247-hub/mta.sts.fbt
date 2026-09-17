@@ -1,0 +1,7 @@
+version: STSv1
+mode: enforce
+mx: mx1.mailpod16-cph3.g1i.one.com
+mx: mx2.mailpod16-cph3.g1i.one.com
+mx: mx3.mailpod16-cph3.g1i.one.com
+mx: mx4.mailpod16-cph3.g1i.one.com
+max_age: 604800
